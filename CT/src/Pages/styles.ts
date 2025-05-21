@@ -8,7 +8,7 @@ export const style=StyleSheet.create({
 
     topo:{
         
-        textDecorationColor:"red"
+       
 
     },
 
