@@ -12,7 +12,7 @@ return (
             </View>
 
             <View style={style.encima}>
-                <Text>EAE</Text>
+                <Text>EAsdaE</Text>
             </View>    
             <View style={style.meio}>
             <Text>EAE</Text>
